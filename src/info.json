@@ -1,0 +1,140 @@
+{
+  "personal": {
+    "name": {
+      "first": "Spencer",
+      "middle": "Mason",
+      "last": "Dent"
+    },
+    "phone": 2298810535,
+    "email": {
+      "user": "mr.spencerdent",
+      "domain": "gmail.com"
+    },
+    "github": "masterned",
+    "address": {
+      "line1": "55 Spearmint Trail",
+      "line2": "Apt 2",
+      "city": "Lookout Mountain",
+      "state": "GA",
+      "zip": 30750
+    }
+  },
+  "skills": [
+    "JavaScript & Node.js",
+    "Java",
+    "Computer Science",
+    "Analytical Skills",
+    "Agile Methodologies (Scrum & Kanban)",
+    "Team Player",
+    "Linux & Windows",
+    "HTML & CSS",
+    "Git & GitHub",
+    "Algorithm Analysis",
+    "Test Driven Development",
+    "Problem Solving"
+  ],
+  "education": [
+    {
+      "degree": {
+        "type": "Bachelor of Arts",
+        "major": "Computer Science",
+        "concentration": "Software Development",
+        "date": "2018/08/15"
+      },
+      "school": {
+        "name": "Covenant College",
+        "city": "Lookout Mountain",
+        "state": "GA"
+      },
+      "gpa": 3.6
+    }
+  ],
+  "work_experience": [
+    {
+      "title": [
+        "Assistant Parts Manager",
+        "IT On-Call"
+      ],
+      "company": "Sunbelt Ford",
+      "location": "Sylvester, GA",
+      "date": {
+        "start": "August 2018",
+        "end": "January 2019"
+      }
+    },
+    {
+      "title": "Tech Club President",
+      "company": "Covenant College",
+      "location": "Lookout Mountain, GA",
+      "date": {
+        "start": "August 2016",
+        "end": "May 2018"
+      }
+    },
+    {
+      "title": "Coordinator's Assistant",
+      "company": "Brock's Bricks",
+      "location": "Chattanooga, TN",
+      "date": {
+        "start": "July",
+        "end": "August 2019"
+      }
+    },
+    {
+      "title": "Extracurricular Teacher",
+      "company": "CHESS Academy",
+      "location": "Tifton, GA",
+      "date": {
+        "start": "January",
+        "end": "May 2014"
+      }
+    },
+    {
+      "title": [
+        "Web Designer",
+        "Consultant"
+      ],
+      "company": "Freelance",
+      "location": "Lookout Mountain, GA",
+      "date": {
+        "start": "January 2020",
+        "end": "current"
+      }
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. John Hunt",
+      "title": "Head of Computer Sciences Department",
+      "company": "Covenant College",
+      "location": "Lookout Mountain, GA",
+      "phone": 7064191534,
+      "email": {
+        "user": "john.hunt",
+        "domain": "covenant.edu"
+      }
+    },
+    {
+      "name": "Darien Smith",
+      "title": "General Manager",
+      "company": "Sunbelt Ford",
+      "location": "Sylvester, GA",
+      "phone": 2297767691,
+      "email": {
+        "user": "dariensmith25",
+        "domain": "hotmail.com"
+      }
+    },
+    {
+      "name": "Brock Sutton",
+      "title": "Owner and Founder",
+      "company": "Brock's Bricks",
+      "location": "Chattanooga, TN",
+      "phone": 4233140633,
+      "email": {
+        "user": "brocksbricks",
+        "domain": "gmail.com"
+      }
+    }
+  ]
+}
