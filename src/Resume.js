@@ -47,6 +47,12 @@ const PersonalInfo = () => {
   )
 }
 
+const Bio = () => (
+  <section>
+    {info.bio.map((para, i) => <p key={i}>{para}</p>)}
+  </section>
+)
+
 const Skills = () => (
   <section id="skills">
     <header>Skills</header>
@@ -126,6 +132,8 @@ const References = () => (
 const Resume = () => (
   <article>
     <PersonalInfo />
+    <hr />
+    <Bio />
     <hr />
     <Skills />
     <hr />
