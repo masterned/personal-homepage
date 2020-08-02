@@ -1,5 +1,4 @@
 import React from 'react'
-import './Resume.css'
 import info from './info.json'
 
 const formatPhone = number => `(${number.slice(0, 3)}) ${number.slice(3, 6)}-${number.slice(6)}`
@@ -33,7 +32,7 @@ const PersonalInfo = () => {
   const email = formatEmail(_email)
 
   return (
-    <section>
+    <section id="personal-info">
       <header className="title">{name.first} {name.middle.charAt(0)}. {name.last}</header>
       <footer className="subtitle">
         <span className="phone">{phone}</span> |&nbsp;
@@ -48,7 +47,7 @@ const PersonalInfo = () => {
 }
 
 const Bio = () => (
-  <section>
+  <section id="bio">
     {info.bio.map((para, i) => <p key={i}>{para}</p>)}
   </section>
 )
@@ -130,17 +129,12 @@ const References = () => (
 )
 
 const Resume = () => (
-  <article>
+  <article id="resume">
     <PersonalInfo />
-    <hr />
     <Bio />
-    <hr />
     <Skills />
-    <hr />
     <Education />
-    <hr />
     <WorkExperience />
-    <hr />
     <References />
   </article>
 )

@@ -1,0 +1,66 @@
+{
+  "equipment": [
+    {
+      "name": "oven"
+    },
+    {
+      "name": "ceramic baking dish"
+    },
+    {
+      "name": "mixing bowl"
+    },
+    {
+      "name": "flat silicone spatula"
+    }
+  ],
+  "ingredients": [
+    {
+      "name": "pie filling",
+      "amount": 1,
+      "unit": "can"
+    },
+    {
+      "name": "crushed pineapple",
+      "amount": 1,
+      "unit": "can"
+    },
+    {
+      "name": "yellow cake mix",
+      "amount": 1,
+      "unit": "box"
+    },
+    {
+      "name": "pecan halves",
+      "amount": 0.75,
+      "unit": "cups"
+    },
+    {
+      "name": "sugar",
+      "amount": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "butter",
+      "amount": 1,
+      "unit": "stick",
+      "substitutes": [
+        "margarine"
+      ]
+    },
+    {
+      "name": "coconut oil",
+      "amount": 1,
+      "unit": "tablespoon",
+      "substitutes": [
+        "butter",
+        "pam"
+      ]
+    }
+  ],
+  "steps": [
+    "preheat oven to 350 degrees Fahrenheit",
+    "roughly chop pecans using the chef's knife",
+    "pour pie filling and crushed pineapple into mixing bowl",
+    "mix the pie filling and crushed pineapple together"
+  ]
+}

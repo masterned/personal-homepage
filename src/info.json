@@ -20,21 +20,15 @@
     }
   },
   "bio": [
-    "As a recent graduate of Covenant College, I am searching for a job in the field of software development. I am currently applying for masters programs but am willing to start a longer-term career if I am a good fit. I hope to gain experience that I can use in the future, but I need work experience in order to get hired."
+    "As a recent graduate of Covenant College, I am searching for a job in the field of software development. I am currently applying for masters programs but am willing to start a longer-term career if I am a good fit. I hope to gain experience that I can use in the future, but I need work experience in order to get hired. [insert team player]"
   ],
   "skills": [
     "JavaScript & Node.js",
     "Java",
-    "Computer Science",
-    "Analytical Skills",
     "Agile Methodologies (Scrum & Kanban)",
-    "Team Player",
     "Linux & Windows",
-    "HTML & CSS",
     "Git & GitHub",
-    "Algorithm Analysis",
-    "Test Driven Development",
-    "Problem Solving"
+    "Test Driven Development"
   ],
   "education": [
     {
@@ -55,6 +49,19 @@
   "work_experience": [
     {
       "title": [
+        "Web Designer",
+        "Consultant",
+        "[make explicitly about Aunt Becky work]"
+      ],
+      "company": "Freelance",
+      "location": "Lookout Mountain, GA",
+      "date": {
+        "start": "January 2020",
+        "end": "current"
+      }
+    },
+    {
+      "title": [
         "Assistant Parts Manager",
         "IT On-Call"
       ],
@@ -72,36 +79,6 @@
       "date": {
         "start": "August 2016",
         "end": "May 2018"
-      }
-    },
-    {
-      "title": "Coordinator's Assistant",
-      "company": "Brock's Bricks",
-      "location": "Chattanooga, TN",
-      "date": {
-        "start": "July",
-        "end": "August 2019"
-      }
-    },
-    {
-      "title": "Extracurricular Teacher",
-      "company": "CHESS Academy",
-      "location": "Tifton, GA",
-      "date": {
-        "start": "January",
-        "end": "May 2014"
-      }
-    },
-    {
-      "title": [
-        "Web Designer",
-        "Consultant"
-      ],
-      "company": "Freelance",
-      "location": "Lookout Mountain, GA",
-      "date": {
-        "start": "January 2020",
-        "end": "current"
       }
     }
   ],
